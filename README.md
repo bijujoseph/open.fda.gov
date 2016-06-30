@@ -11,6 +11,8 @@ This repository contains the main open.fda.gov website.
 ## Running the site
 
 `npm run gatsby develop`
+or
+`npm run dev`
 
 ## Description of project structure
 
